@@ -9,6 +9,7 @@
 ## Selection
 
 - K-tournament
+- Fitness-based
 
 
 ## Variation
